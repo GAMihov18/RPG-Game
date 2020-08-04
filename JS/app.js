@@ -7,7 +7,9 @@ console.log("LC")
 const inventory = document.getElementById('IS');
 let inventorySlots = 5;
 //AM values
+//none currently...
 
+//Body of Code(BoC)
 drawInventorySlots(inventorySlots);
 
 //Functions
