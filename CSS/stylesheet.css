@@ -1,0 +1,23 @@
+body{
+  background-color: #6b6b6b;
+  color: white;
+}
+.row{
+  margin: 0px 20px;
+}
+#IS{
+  background-color: #D2691E;
+}
+#GMF{
+ background-color: black;
+}
+#AM{
+  background-color: lightslategray;
+}
+#NC{
+border: 1px solid black;
+}
+.inventory-slot{
+  border: 2px solid black;
+  margin:2px 0px;
+}
